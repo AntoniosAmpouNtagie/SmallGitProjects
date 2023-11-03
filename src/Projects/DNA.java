@@ -17,7 +17,6 @@ public class DNA {
                 stringBuilder.setCharAt(i, 'G');
             } else if (currentChar == 'T') {
                 stringBuilder.setCharAt(i, 'A');
-                // Add more conditions and replacements as needed
             } else if (currentChar == 'G') {
                 stringBuilder.setCharAt(i, 'C');
 
